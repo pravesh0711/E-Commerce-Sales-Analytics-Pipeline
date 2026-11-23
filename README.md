@@ -296,7 +296,7 @@ __pycache__/
 **Pravesh**
 Aspiring Data Engineer | PySpark · SQL · Databricks · BigQuery
 
-- 🔗 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-profile)
-- 💻 GitHub: [your-github-username](https://github.com/your-username)
+- 🔗 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/pravesh13)
+- 💻 GitHub: [your-github-pravesh0711](https://github.com/pravesh0711)
 
 ⭐ If you found this project useful, please consider giving it a star!
