@@ -1,0 +1,81 @@
+{
+  "name": "Ecommerce Pipeline",
+  "dataColors": [
+    "#1F6FEB",
+    "#13A89E",
+    "#F28C28",
+    "#0B2545",
+    "#8A94A6",
+    "#D64545",
+    "#7A5CFA",
+    "#E5B800"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0B2545",
+  "tableAccent": "#1F6FEB",
+  "good": "#13A89E",
+  "bad": "#D64545",
+  "neutral": "#F28C28",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#0B2545"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#0B2545"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#1F6FEB"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#0B2545"
+              }
+            }
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F3F6FB"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

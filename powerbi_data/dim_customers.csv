@@ -1,0 +1,101 @@
+customer_id,name,age,gender,region,signup_date,segment,age_band
+1,Vihaan Sharma,56,Male,East,2023-09-23,Loyal,55+
+2,Anaya Singh,46,Male,South,2025-07-30,No purchases,45-54
+3,Kabir Gupta,32,Female,East,2021-05-22,Occasional,25-34
+4,Vihaan Iyer,60,Female,East,2025-04-07,Loyal,55+
+5,Sara Verma,25,Female,West,2023-12-27,Regular,25-34
+6,Nisha Reddy,38,Female,West,2025-04-18,Occasional,35-44
+7,Vivaan Sharma,56,Male,North,2021-09-15,Regular,55+
+8,Aditya Singh,36,Male,North,2021-09-20,No purchases,35-44
+9,Kabir Shah,40,Male,South,2024-09-13,Regular,35-44
+10,Priya Sharma,28,Female,North,2023-09-01,Regular,25-34
+11,Sara Singh,28,Female,East,2024-01-31,No purchases,25-34
+12,Sara Reddy,41,Male,West,2021-12-05,Loyal,35-44
+13,Kabir Mehta,53,Male,North,2022-06-27,Regular,45-54
+14,Nisha Patel,57,Male,North,2023-12-17,No purchases,55+
+15,Aarav Malhotra,41,Male,South,2024-05-27,Loyal,35-44
+16,Reyansh Joshi,20,Female,South,2023-05-17,No purchases,<25
+17,Ira Kumar,39,Female,East,2022-03-10,No purchases,35-44
+18,Anaya Gupta,19,Female,West,2024-01-10,Regular,<25
+19,Ishaan Malhotra,41,Male,South,2025-03-27,No purchases,35-44
+20,Aanya Verma,61,Male,North,2025-02-03,Regular,55+
+21,Aditya Reddy,47,Female,West,2024-11-13,No purchases,45-54
+22,Vihaan Kumar,55,Female,West,2022-02-16,Regular,55+
+23,Saanvi Das,19,Female,North,2024-12-31,VIP,<25
+24,Anaya Malhotra,38,Female,South,2022-10-01,No purchases,35-44
+25,Vivaan Joshi,50,Female,North,2023-03-29,No purchases,45-54
+26,Kiara Shah,29,Female,West,2024-10-07,No purchases,25-34
+27,Vihaan Nair,39,Male,Central,2024-08-23,Regular,35-44
+28,Myra Verma,61,Male,Central,2023-02-04,Occasional,55+
+29,Sara Patel,42,Male,East,2023-06-17,No purchases,35-44
+30,Priya Nair,44,Male,North,2023-11-26,Occasional,35-44
+31,Saanvi Das,59,Female,North,2023-07-14,Occasional,55+
+32,Ishaan Joshi,45,Male,East,2021-09-05,Regular,45-54
+33,Aditya Sharma,33,Female,East,2022-05-23,Loyal,25-34
+34,Kabir Malhotra,32,Female,East,2022-04-06,Loyal,25-34
+35,Diya Verma,64,Male,West,2021-05-12,Occasional,55+
+36,Kabir Kapoor,61,Male,North,2022-11-24,Occasional,55+
+37,Vihaan Reddy,20,Female,West,2021-02-13,Occasional,<25
+38,Anaya Mehta,54,Male,East,2024-04-19,Occasional,45-54
+39,Saanvi Gupta,24,Male,North,2024-02-09,No purchases,<25
+40,Saanvi Kumar,38,Male,West,2022-04-17,Loyal,35-44
+41,Ishaan Iyer,26,Male,West,2024-04-20,VIP,25-34
+42,Anaya Joshi,56,Female,East,2022-03-28,Loyal,55+
+43,Aditya Das,35,Female,North,2021-01-15,Loyal,35-44
+44,Reyansh Shah,21,Female,East,2021-05-26,Regular,<25
+45,Kabir Gupta,42,Female,North,2024-12-20,Loyal,35-44
+46,Kiara Reddy,31,Female,Central,2024-07-16,Regular,25-34
+47,Anaya Nair,26,Male,South,2021-05-01,No purchases,25-34
+48,Sara Singh,43,Female,South,2022-04-14,Occasional,35-44
+49,Aanya Kapoor,19,Female,South,2021-05-19,Regular,<25
+50,Vivaan Singh,37,Female,East,2021-03-06,Loyal,35-44
+51,Vivaan Malhotra,45,Female,Central,2022-11-08,No purchases,45-54
+52,Aanya Reddy,64,Male,North,2021-05-26,No purchases,55+
+53,Anaya Verma,24,Male,West,2023-11-19,Regular,<25
+54,Ishaan Nair,61,Male,North,2022-05-03,Regular,55+
+55,Nisha Nair,25,Male,West,2022-07-25,Loyal,25-34
+56,Aanya Singh,64,Female,North,2024-10-02,VIP,55+
+57,Riya Reddy,52,Female,Central,2023-09-22,Regular,45-54
+58,Kiara Gupta,31,Male,West,2022-03-15,Regular,25-34
+59,Anaya Gupta,34,Female,East,2024-01-10,Regular,25-34
+60,Kabir Joshi,53,Male,North,2021-09-28,Occasional,45-54
+61,Sara Shah,57,Male,North,2025-01-21,Loyal,55+
+62,Anaya Joshi,21,Male,West,2024-03-15,VIP,<25
+63,Nisha Reddy,19,Male,East,2024-03-26,No purchases,<25
+64,Nisha Reddy,23,Female,East,2023-08-27,Regular,<25
+65,Saanvi Singh,59,Male,Central,2022-05-13,Loyal,55+
+66,Arjun Shah,21,Female,East,2025-05-26,Loyal,<25
+67,Riya Verma,46,Female,East,2023-08-27,Regular,45-54
+68,Vivaan Kapoor,35,Male,East,2025-07-12,Regular,35-44
+69,Vihaan Gupta,43,Other,South,2023-04-14,No purchases,35-44
+70,Reyansh Malhotra,61,Female,Central,2022-01-25,No purchases,55+
+71,Ira Das,51,Male,North,2021-07-13,Occasional,45-54
+72,Aditya Reddy,27,Female,West,2021-07-18,VIP,25-34
+73,Myra Das,53,Male,North,2024-09-11,No purchases,45-54
+74,Kiara Shah,31,Male,Central,2023-06-02,No purchases,25-34
+75,Anaya Shah,48,Male,West,2022-12-27,Regular,45-54
+76,Aarav Iyer,65,Female,Central,2023-05-18,Loyal,55+
+77,Vihaan Iyer,32,Female,East,2023-04-22,Occasional,25-34
+78,Sara Malhotra,25,Male,West,2023-08-15,No purchases,25-34
+79,Anaya Malhotra,31,Male,East,2025-02-02,Regular,25-34
+80,Aanya Verma,40,Female,North,2021-04-21,No purchases,35-44
+81,Diya Reddy,57,Male,North,2024-10-11,No purchases,55+
+82,Reyansh Mehta,38,Male,West,2024-08-31,Regular,35-44
+83,Aarav Joshi,33,Female,West,2024-08-16,Occasional,25-34
+84,Anaya Shah,62,Other,Central,2021-07-21,VIP,55+
+85,Reyansh Shah,35,Male,Central,2021-05-05,Regular,35-44
+86,Vihaan Kapoor,64,Female,East,2023-04-05,Loyal,55+
+87,Diya Kapoor,41,Female,West,2025-01-31,Loyal,35-44
+88,Meera Das,43,Male,North,2022-11-26,VIP,35-44
+89,Ishaan Gupta,42,Female,Central,2025-06-28,Loyal,35-44
+90,Saanvi Malhotra,62,Male,Central,2021-08-12,Regular,55+
+91,Reyansh Shah,58,Female,North,2022-05-25,No purchases,55+
+92,Meera Nair,46,Female,Central,2022-01-28,No purchases,45-54
+93,Aarav Das,32,Female,East,2022-01-25,No purchases,25-34
+94,Aanya Mehta,62,Male,West,2024-01-04,No purchases,55+
+95,Aarav Verma,18,Female,North,2023-07-08,No purchases,<25
+96,Saanvi Nair,42,Male,West,2021-10-15,Regular,35-44
+97,Diya Singh,24,Male,Central,2023-05-15,Loyal,<25
+98,Vivaan Singh,26,Male,Central,2022-01-11,No purchases,25-34
+99,Nisha Verma,41,Female,North,2022-07-25,No purchases,35-44
+100,Aditya Joshi,18,Female,East,2023-08-06,No purchases,<25

@@ -1,0 +1,61 @@
+product_id,product_name,category,price,brand
+1,Office Chair 01,Furniture,6319.18,Brand_2
+2,Bluetooth Speaker 02,Electronics,11132.96,Brand_2
+3,T-Shirt 03,Clothing,1358.65,Brand_1
+4,Mixer Grinder 04,Home & Kitchen,24227.01,Brand_4
+5,Face Wash 05,Beauty,4240.15,Brand_8
+6,Yoga Mat 06,Sports,12084.82,Brand_7
+7,Fiction Novel 07,Books,22569.83,Brand_3
+8,Building Blocks 08,Toys,9535.43,Brand_7
+9,Study Table 09,Furniture,6702.56,Brand_8
+10,Wireless Mouse 10,Electronics,7201.71,Brand_8
+11,Jeans 11,Clothing,3953.44,Brand_5
+12,Water Bottle 12,Home & Kitchen,5519.75,Brand_1
+13,Moisturizer 13,Beauty,14520.59,Brand_1
+14,Cricket Bat 14,Sports,18723.59,Brand_1
+15,Data Science Handbook 15,Books,1347.54,Brand_8
+16,Remote Car 16,Toys,12619.97,Brand_3
+17,Bookshelf 17,Furniture,1515.3,Brand_2
+18,Smartphone 18,Electronics,21297.43,Brand_2
+19,Jacket 19,Clothing,14915.37,Brand_4
+20,Cookware Set 20,Home & Kitchen,10153.01,Brand_4
+21,Shampoo 21,Beauty,14514.08,Brand_1
+22,Football 22,Sports,15521.6,Brand_7
+23,Cookbook 23,Books,16467.59,Brand_6
+24,Board Game 24,Toys,23373.19,Brand_4
+25,Sofa 25,Furniture,16775.18,Brand_6
+26,Laptop Stand 26,Electronics,6042.28,Brand_7
+27,Sneakers 27,Clothing,3357.87,Brand_5
+28,Bedsheet 28,Home & Kitchen,11483.89,Brand_2
+29,Sunscreen 29,Beauty,330.95,Brand_2
+30,Dumbbell Set 30,Sports,1923.19,Brand_4
+31,History Book 31,Books,12695.53,Brand_3
+32,Soft Toy 32,Toys,23337.16,Brand_2
+33,Dining Table 33,Furniture,21992.83,Brand_6
+34,Headphones 34,Electronics,7195.19,Brand_8
+35,Formal Shirt 35,Clothing,20859.25,Brand_5
+36,Air Fryer 36,Home & Kitchen,15329.78,Brand_1
+37,Perfume 37,Beauty,16728.79,Brand_5
+38,Skipping Rope 38,Sports,23299.73,Brand_2
+39,SQL Guide 39,Books,23478.36,Brand_3
+40,Puzzle Set 40,Toys,6684.2,Brand_2
+41,Bedside Table 41,Furniture,18585.18,Brand_3
+42,Power Bank 42,Electronics,6880.47,Brand_4
+43,Dress 43,Clothing,17967.54,Brand_4
+44,Storage Box 44,Home & Kitchen,17217.68,Brand_5
+45,Hair Serum 45,Beauty,12683.69,Brand_5
+46,Badminton Racket 46,Sports,22641.88,Brand_1
+47,Biography 47,Books,2397.23,Brand_7
+48,Action Figure 48,Toys,20749.77,Brand_1
+49,Wardrobe 49,Furniture,187.29,Brand_3
+50,Monitor 50,Electronics,15963.12,Brand_5
+51,Hoodie 51,Clothing,4122.39,Brand_8
+52,Dinner Set 52,Home & Kitchen,13835.84,Brand_7
+53,Body Lotion 53,Beauty,14065.58,Brand_2
+54,Gym Gloves 54,Sports,1972.57,Brand_3
+55,Poetry Collection 55,Books,13684.2,Brand_6
+56,Art Kit 56,Toys,14603.49,Brand_3
+57,Coffee Table 57,Furniture,10800.69,Brand_1
+58,Keyboard 58,Electronics,7774.63,Brand_1
+59,Track Pants 59,Clothing,22482.22,Brand_4
+60,Vacuum Flask 60,Home & Kitchen,17082.46,Brand_2
